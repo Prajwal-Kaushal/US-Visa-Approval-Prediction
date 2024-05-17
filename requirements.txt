@@ -8,7 +8,7 @@ scipy
 scikit-learn
 imblearn
 xgboost
-catboost
+#catboost
 pymongo # to use mongodb
 from_root # helps to figure out the root folder
 evidently==0.2.8 # to used datalib
